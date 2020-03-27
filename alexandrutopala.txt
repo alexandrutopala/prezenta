@@ -1,3 +1,6 @@
 Buna, prezent!
 
 Aceasta este o modificare
+
+// commit - salveaza prograsul
+// push - duce modificarile locale in branch-ul remote
