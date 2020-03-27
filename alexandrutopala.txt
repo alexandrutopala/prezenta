@@ -4,3 +4,4 @@ Aceasta este o modificare
 
 // commit - salveaza prograsul
 // push - duce modificarile locale in branch-ul remote
+// fetch - actualizeaza branch-urile remote
