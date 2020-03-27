@@ -5,3 +5,9 @@ Aceasta este o modificare
 // commit - salveaza prograsul
 // push - duce modificarile locale in branch-ul remote
 // fetch - actualizeaza branch-urile remote
+
+1. branch nou din master
+2. commit-uri gradule (dezvoltarea feature ului)
+3. push - pt a duce branch-ul remote
+4. pull request (merge request) - code review
+5. merge
