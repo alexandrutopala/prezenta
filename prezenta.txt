@@ -1,3 +1,5 @@
 alex, prezent
 am adaugat o linie
 pistol costin, prezent
+
+linia 1
